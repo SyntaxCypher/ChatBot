@@ -39,10 +39,6 @@ Make your changes and submit a pull request.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Acknowledgments
-
-Special thanks to the open-source community for their contributions and support.
-
 ---
 
 Enjoy using the ChatBot! If you have any questions, feedback, or ideas for improvement, please don't hesitate to reach out. Happy chatting! 😄
