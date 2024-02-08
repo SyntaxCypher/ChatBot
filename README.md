@@ -1,6 +1,5 @@
 ## Pyhton ChatBot using an SQL Database
 
-![CodeLogo4](https://github.com/QuantumBytePanda/ChatBot/assets/52766040/dba6f93d-3034-4502-9a34-7d49ded07fc0)
 
 ## Overview
 
